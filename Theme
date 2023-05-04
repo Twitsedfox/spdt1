@@ -9,7 +9,7 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://clearvision.github.io/akoakolang/main.css');
 
 :root {
   --main-color: #D2D5B9;
